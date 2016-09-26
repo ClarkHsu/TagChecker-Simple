@@ -1,0 +1,34 @@
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.exe
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.pdb
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.exe
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.pdb
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.PresentationForm.resources
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.csproj.GenerateResource.Cache
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.exe.config
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.dll
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.dll
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.dll
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.pdb
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.xml
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.pdb
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.xml
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.pdb
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.xml
+C:\XCR\Jobs\07MVC及OA办公\参考项目\多利免费电子购物系统 v2.0.3 build 20101217\Tag_Checker\Tag_Checker\bin\Debug\Config.xml
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.exe.config
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.exe
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.pdb
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Config.xml
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.exe
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Tag_Checker.pdb
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.dll
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.dll
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.dll
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.pdb
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.xml
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.pdb
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Common.Logging.Core.xml
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.pdb
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\bin\Debug\Spring.Core.xml
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.PresentationForm.resources
+C:\Users\admin\Desktop\tec test\MedTech\Section 1\src\Tag_Checker\Tag_Checker\obj\Debug\Tag_Checker.csproj.GenerateResource.Cache
