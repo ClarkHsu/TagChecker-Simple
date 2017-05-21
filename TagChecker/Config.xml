@@ -7,7 +7,4 @@
 
   <object id="tagUtility" type="Tag_Checker.TagDefinition">
   </object>
-
-  <object id="newDefinition" type="Tag_Checker.TagDefinition">
-  </object>
 </objects>
